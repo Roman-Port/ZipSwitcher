@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ZipSwitcher": {
+      "commandName": "Project",
+      "commandLineArgs": "config.json"
+    }
+  }
+}
